@@ -29,3 +29,28 @@
 
 # Running tests leaves *.spv files in the root directory.
 *.spv
+
+*.dir/
+bin/
+CMakeFiles/
+intermediate/
+x64/
+
+.DS_Store
+*.aps
+*.csproj
+*.filters
+*.make
+*.ninja
+*.sln
+*.slnx
+*.user
+*.vcxproj
+*.xcodeproj
+*.xcworkspace
+cmake_install.cmake
+CMakeCache.txt
+compile_commands.json
+imgui.ini
+local.properties
+Makefiles
